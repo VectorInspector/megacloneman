@@ -1,6 +1,8 @@
 # megacloneman
 Mega Man 2 proof of concept in C++ with SDL. Quick Man stage.
 
+![You're quick, man!](preview_a.png?raw=true "You're quick, man!")
+
 # Brief
 I would like to explain here how certain things work just for prosperity.
 

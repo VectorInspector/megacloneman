@@ -1,5 +1,5 @@
 # megacloneman
-Mega Man 2 proof of concept in C++ with SDL.
+Mega Man 2 proof of concept in C++ with SDL. Quick Man stage.
 
 # Brief
 I would like to explain here how certain things work just for prosperity.

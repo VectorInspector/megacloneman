@@ -3,6 +3,8 @@ Mega Man 2 proof of concept in C++ with SDL. Quick Man stage.
 
 ![You're quick, man!](preview_a.png?raw=true "You're quick, man!")
 
+https://github.com/user-attachments/assets/df8ec42b-3f9a-4fe7-a79b-e753f48a94a3
+
 # Brief
 I would like to explain here how certain things work just for prosperity.
 
